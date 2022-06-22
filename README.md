@@ -1,2 +1,2 @@
-# bskHcek
-Hahaaaa bodoh
+Scirpt
+
